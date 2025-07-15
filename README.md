@@ -20,7 +20,7 @@ This is a full-stack application built with **Laravel 12** (backend) and **React
 1. **Clone the repository**
 ```bash
 git clone https://github.com/GhadeerHamed/e-commerce.git
-cd your-repo-name
+cd e-commerce
 ```
 
 2. **In backend folder**
