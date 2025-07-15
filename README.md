@@ -30,7 +30,7 @@ composer install &
 *copy .env.example to .env file*
 *run migration and seeder*
 ```bash
-php .\artisan migrate:refresh --seed
+php artisan migrate --seed
 ```
 
 3. **In frontend folder**
