@@ -26,7 +26,11 @@ cd your-repo-name
 2. **In backend folder**
 ```bash
 composer install &
-php artisan serve
+```
+*copy .env.example to .env file*
+*run migration and seeder*
+```bash
+php .\artisan migrate:refresh --seed
 ```
 
 3. **In frontend folder**
